@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Diggers" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Diggers" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="Diggers/DIG_State" />
+					<Add directory="Diggers/DIG_StateMachine" />
+					<Add directory="Diggers/DIG_Engine" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="GTS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="G:/Projekty c++/GTS/GTS/.objs" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="GTS/GTS_Button" />
+					<Add directory="GTS/GTS_Resource" />
+					<Add directory="GTS/New folder" />
+					<Add directory="GTS/GTS_Action" />
+					<Add directory="GTS/GTS_Tile" />
+					<Add directory="GTS/GTS_Player" />
+					<Add directory="GTS/GTS_Player/GTS_Human" />
+					<Add directory="GTS/GTS_Object/GTS_Actor" />
+					<Add directory="GTS/GTS_Map" />
+					<Add directory="GTS/GTS_GridManager" />
+					<Add directory="GTS/GTS_Location" />
+					<Add directory="GTS/GTS_Animation" />
+					<Add directory="GTS/GTS_Frame" />
+					<Add directory="GTS/GTS_Skeleton" />
+					<Add directory="GTS/GTS_PathFinder" />
+					<Add directory="GTS/GTS_Animation/GTS_Bone" />
+					<Add directory="GTS/GTS_Animation/GTS_Skin" />
+					<Add directory="GTS/GTS_Object/GTS_Pawn" />
+					<Add directory="GTS/GTS_Grid" />
+					<Add directory="GTS/GTS_Game" />
+					<Add directory="GTS/GTS_MiniMap" />
+					<Add directory="GTS/GTS_AI" />
+					<Add directory="GTS/GTS_AI/GTS_Task" />
+					<Add directory="GTS/GTS_AI/GTS_Wait" />
+					<Add directory="GTS/GTS_AI/GTS_Loop" />
+					<Add directory="GTS/GTS_AI/GTS_Parallel" />
+					<Add directory="GTS/GTS_AI/GTS_Select" />
+					<Add directory="GTS/GTS_AI/GTS_Condition" />
+					<Add directory="GTS/GTS_AI/GTS_Instruction" />
+					<Add directory="GTS/GTS_AI/GTS_Instruction/GTS_Action" />
+					<Add directory="GTS/GTS_Animation/GTS_Pawn" />
+					<Add directory="GTS/GTS_Object/GTS_Item" />
+					<Add directory="GTS/GTS_Object/GTS_Character" />
+					<Add directory="GTS/GTS_Object/GTS_Creature" />
+					<Add directory="Diggers/DIG_State" />
+					<Add directory="Diggers/DIG_StateMachine" />
+					<Add directory="Diggers/DIG_Engine" />
+					<Add directory="Diggers/DIG_State/DIG_Init" />
+					<Add directory="Diggers" />
+					<Add directory="Diggers/DIG_Intro" />
+					<Add directory="Diggers/DIG_GameIntro" />
+					<Add directory="GTS/GTS_Pixel32" />
+					<Add directory="Diggers/DIG_Resources" />
+					<Add directory="Diggers/DIG_DiggersMap" />
+					<Add directory="Diggers/DIG_Game" />
+					<Add directory="Diggers/DIG_Map" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../MinGW_dev/i686-w64-mingw32/include/SDL2" />
+			<Add directory="../Diggers" />
+			<Add directory="../GTS" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf" />
+			<Add directory="../../MinGW_dev/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="../GTS/GTS_Camera/GTS_Camera.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Camera/GTS_Camera.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Engine/GTS_Engine.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Engine/GTS_Engine.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Game/GTS_Game.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Game/GTS_Game.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Game/GTS_GameInterface.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Game/GTS_GameInterface.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Grid/GTS_Grid.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Grid/GTS_Grid.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Location/GTS_Location.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Location/GTS_Location.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Map/GTS_Map.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Map/GTS_Map.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_MiniMap/GTS_MiniMap.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_MiniMap/GTS_MiniMap.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Pixel32/GTS_Pixel32.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Pixel32/GTS_Pixel32.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_ResourceManager/GTS_ResourceManager.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_ResourceManager/GTS_ResourceManager.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Resource/GTS_Resource.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Resource/GTS_Resource.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_StateMachine/GTS_StateMachine.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_StateMachine/GTS_StateMachine.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_State/GTS_State.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_State/GTS_State.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Text/GTS_Text.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Text/GTS_Text.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Texture/GTS_Texture.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Texture/GTS_Texture.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Utilities/StringConversion.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Utilities/iostring.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Utilities/triangleMath.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Vector/GTS_Vector.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_WindowManager/GTS_WindowManager.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_WindowManager/GTS_WindowManager.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Window/GTS_Window.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="../GTS/GTS_Window/GTS_Window.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_DiggersMap/DIG_DiggersMap.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_DiggersMap/DIG_DiggersMap.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_GameIntro/DIG_GameIntro.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_GameIntro/DIG_GameIntro.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Game/DIG_Game.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Game/DIG_Game.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_InitializeGame/DIG_InitializeGame.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_InitializeGame/DIG_InitializeGame.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_MainMenu/DIG_MainMenu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_MainMenu/DIG_MainMenu.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Map/DIG_Map.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Map/DIG_Map.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Resources/DIG_InitRes.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Resources/DIG_InitRes.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Resources/DIG_MenuRes.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Resources/DIG_MenuRes.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Resources/DIG_TileRes.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="DIG_Resources/DIG_TileRes.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="diggers.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

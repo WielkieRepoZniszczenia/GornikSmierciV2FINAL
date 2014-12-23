@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_AI\GTS_Instruction\GTS_Wait\GTS_Wait.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="152" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_Grid\GTS_Grid.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="238" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="17" />
+			<Collapse line="29" />
+			<Collapse line="55" />
+			<Collapse line="64" />
+			<Collapse line="68" />
+			<Collapse line="72" />
+			<Collapse line="84" />
+			<Collapse line="99" />
+		</Folding>
+	</File>
+	<File name="GTS_Texture\GTS_Texture.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5537" topLine="95" />
+		</Cursor>
+		<Folding>
+			<Collapse line="40" />
+			<Collapse line="48" />
+			<Collapse line="64" />
+			<Collapse line="69" />
+			<Collapse line="79" />
+			<Collapse line="99" />
+			<Collapse line="106" />
+			<Collapse line="114" />
+			<Collapse line="129" />
+			<Collapse line="141" />
+			<Collapse line="149" />
+			<Collapse line="162" />
+			<Collapse line="168" />
+			<Collapse line="175" />
+			<Collapse line="181" />
+			<Collapse line="188" />
+			<Collapse line="207" />
+			<Collapse line="213" />
+			<Collapse line="238" />
+			<Collapse line="247" />
+			<Collapse line="266" />
+			<Collapse line="272" />
+			<Collapse line="274" />
+			<Collapse line="301" />
+			<Collapse line="307" />
+			<Collapse line="313" />
+			<Collapse line="315" />
+			<Collapse line="324" />
+			<Collapse line="326" />
+			<Collapse line="331" />
+			<Collapse line="337" />
+			<Collapse line="342" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_PathFinder\GTS_PathFinder.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="604" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="16" />
+			<Collapse line="33" />
+			<Collapse line="40" />
+			<Collapse line="42" />
+			<Collapse line="47" />
+			<Collapse line="49" />
+			<Collapse line="56" />
+			<Collapse line="79" />
+			<Collapse line="84" />
+			<Collapse line="85" />
+			<Collapse line="96" />
+			<Collapse line="100" />
+			<Collapse line="148" />
+			<Collapse line="150" />
+			<Collapse line="154" />
+			<Collapse line="160" />
+			<Collapse line="162" />
+			<Collapse line="166" />
+		</Folding>
+	</File>
+	<File name="GTS_Grid\GTS_Grid.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Texture\GTS_Texture.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2124" topLine="68" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_PathFinder\GTS_PathFinder.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="746" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Location\GTS_Location.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1126" topLine="44" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+			<Collapse line="37" />
+			<Collapse line="42" />
+			<Collapse line="46" />
+			<Collapse line="51" />
+			<Collapse line="55" />
+			<Collapse line="59" />
+			<Collapse line="76" />
+			<Collapse line="80" />
+			<Collapse line="88" />
+			<Collapse line="100" />
+			<Collapse line="108" />
+			<Collapse line="112" />
+			<Collapse line="114" />
+			<Collapse line="124" />
+			<Collapse line="128" />
+			<Collapse line="130" />
+			<Collapse line="142" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_AI.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="847" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="27" />
+		</Folding>
+	</File>
+	<File name="GTS_Timer\GTS_Timer.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="992" topLine="0" />
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_Texture\GTS_Texture.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="138" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="43" />
+			<Collapse line="44" />
+			<Collapse line="50" />
+			<Collapse line="55" />
+			<Collapse line="65" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Instruction.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="107" topLine="0" />
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+		</Cursor>
+	</File>
+	<File name="GTS_Button\GTS_Button.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3732" topLine="140" />
+		</Cursor>
+		<Folding>
+			<Collapse line="36" />
+			<Collapse line="41" />
+			<Collapse line="57" />
+			<Collapse line="65" />
+			<Collapse line="70" />
+			<Collapse line="72" />
+			<Collapse line="83" />
+			<Collapse line="88" />
+			<Collapse line="93" />
+			<Collapse line="95" />
+			<Collapse line="132" />
+			<Collapse line="134" />
+			<Collapse line="174" />
+			<Collapse line="185" />
+			<Collapse line="188" />
+			<Collapse line="192" />
+			<Collapse line="194" />
+			<Collapse line="196" />
+			<Collapse line="198" />
+			<Collapse line="202" />
+			<Collapse line="207" />
+			<Collapse line="229" />
+			<Collapse line="231" />
+			<Collapse line="236" />
+			<Collapse line="238" />
+			<Collapse line="240" />
+			<Collapse line="242" />
+			<Collapse line="248" />
+			<Collapse line="267" />
+			<Collapse line="277" />
+			<Collapse line="282" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_Location\GTS_Location.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1097" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="GTS_PackCreator\GTS_PackCreator.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="182" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="23" />
+			<Collapse line="38" />
+			<Collapse line="46" />
+			<Collapse line="56" />
+			<Collapse line="63" />
+			<Collapse line="73" />
+		</Folding>
+	</File>
+	<File name="GTS_Timer\GTS_Timer.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="250" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Button\GTS_Button.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2434" topLine="36" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="21" />
+			<Collapse line="32" />
+		</Folding>
+	</File>
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAnimations\GTS_CharacterAnimations.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="443" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+			<Collapse line="12" />
+		</Folding>
+	</File>
+	<File name="GTS_Vector\GTS_Vector.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+			<Collapse line="41" />
+			<Collapse line="49" />
+			<Collapse line="56" />
+			<Collapse line="63" />
+			<Collapse line="70" />
+			<Collapse line="104" />
+			<Collapse line="112" />
+			<Collapse line="173" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Loop\GTS_Loop.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="110" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_OBJ\GTS_OBJ.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="61" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Window\GTS_Window.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1325" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="11" />
+			<Collapse line="28" />
+			<Collapse line="30" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_AI.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="84" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_Map\GTS_Map.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="232" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="12" />
+			<Collapse line="18" />
+			<Collapse line="32" />
+			<Collapse line="36" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_Pawn\GTS_Pawn.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1637" topLine="72" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="11" />
+			<Collapse line="17" />
+			<Collapse line="26" />
+			<Collapse line="30" />
+			<Collapse line="34" />
+			<Collapse line="38" />
+			<Collapse line="61" />
+			<Collapse line="115" />
+			<Collapse line="121" />
+			<Collapse line="131" />
+			<Collapse line="136" />
+			<Collapse line="148" />
+			<Collapse line="191" />
+			<Collapse line="197" />
+			<Collapse line="199" />
+			<Collapse line="203" />
+			<Collapse line="210" />
+			<Collapse line="217" />
+			<Collapse line="237" />
+			<Collapse line="240" />
+			<Collapse line="243" />
+			<Collapse line="247" />
+			<Collapse line="260" />
+			<Collapse line="332" />
+			<Collapse line="341" />
+			<Collapse line="349" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_AI.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="84" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Camera\GTS_Camera.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="856" topLine="4" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="19" />
+			<Collapse line="25" />
+			<Collapse line="31" />
+			<Collapse line="117" />
+			<Collapse line="126" />
+			<Collapse line="165" />
+			<Collapse line="175" />
+		</Folding>
+	</File>
+	<File name="GTS_Map\GTS_Map.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="77" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="GTS_Pawn\GTS_Pawn.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="76" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="11" />
+			<Collapse line="14" />
+			<Collapse line="19" />
+			<Collapse line="54" />
+			<Collapse line="56" />
+			<Collapse line="86" />
+		</Folding>
+	</File>
+	<File name="GTS_Vector\GTS_Vector.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+			<Collapse line="41" />
+			<Collapse line="49" />
+			<Collapse line="56" />
+			<Collapse line="63" />
+			<Collapse line="70" />
+			<Collapse line="104" />
+			<Collapse line="112" />
+			<Collapse line="173" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_OBJ.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="61" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Player\GTS_Human\GTS_Human.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="253" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="8" />
+			<Collapse line="13" />
+			<Collapse line="55" />
+			<Collapse line="57" />
+			<Collapse line="61" />
+			<Collapse line="66" />
+			<Collapse line="70" />
+			<Collapse line="75" />
+			<Collapse line="79" />
+			<Collapse line="83" />
+			<Collapse line="87" />
+			<Collapse line="94" />
+			<Collapse line="96" />
+			<Collapse line="100" />
+			<Collapse line="104" />
+			<Collapse line="108" />
+			<Collapse line="115" />
+			<Collapse line="117" />
+			<Collapse line="121" />
+			<Collapse line="126" />
+			<Collapse line="130" />
+			<Collapse line="135" />
+			<Collapse line="139" />
+			<Collapse line="143" />
+			<Collapse line="147" />
+			<Collapse line="157" />
+			<Collapse line="164" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_OBJ.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_Character.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2228" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="48" />
+			<Collapse line="57" />
+			<Collapse line="66" />
+			<Collapse line="75" />
+			<Collapse line="84" />
+			<Collapse line="93" />
+		</Folding>
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_Texture\GTS_Texture.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4792" topLine="68" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="18" />
+			<Collapse line="36" />
+			<Collapse line="58" />
+			<Collapse line="68" />
+			<Collapse line="76" />
+			<Collapse line="83" />
+			<Collapse line="88" />
+			<Collapse line="91" />
+			<Collapse line="106" />
+			<Collapse line="108" />
+			<Collapse line="118" />
+			<Collapse line="126" />
+			<Collapse line="132" />
+			<Collapse line="139" />
+			<Collapse line="145" />
+			<Collapse line="158" />
+			<Collapse line="165" />
+			<Collapse line="204" />
+			<Collapse line="217" />
+			<Collapse line="228" />
+			<Collapse line="230" />
+			<Collapse line="263" />
+			<Collapse line="265" />
+			<Collapse line="274" />
+			<Collapse line="276" />
+			<Collapse line="281" />
+			<Collapse line="287" />
+			<Collapse line="292" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Select\GTS_Select.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="101" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Engine\GTS_Engine.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1808" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterDescription\GTS_CharacterDescription.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="452" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_GridManager\GTS_GridManager.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Timer\GTS_Timer.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="992" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Engine\GTS_Engine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3874" topLine="71" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="25" />
+			<Collapse line="31" />
+			<Collapse line="42" />
+			<Collapse line="70" />
+			<Collapse line="73" />
+			<Collapse line="80" />
+			<Collapse line="96" />
+			<Collapse line="105" />
+			<Collapse line="129" />
+			<Collapse line="156" />
+			<Collapse line="175" />
+			<Collapse line="184" />
+			<Collapse line="187" />
+			<Collapse line="193" />
+			<Collapse line="202" />
+			<Collapse line="213" />
+			<Collapse line="224" />
+			<Collapse line="231" />
+			<Collapse line="250" />
+			<Collapse line="258" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterFeatures\GTS_CharacterFeatures.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_StateMachine\GTS_StateMachine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1427" topLine="18" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="8" />
+			<Collapse line="10" />
+			<Collapse line="15" />
+			<Collapse line="23" />
+			<Collapse line="27" />
+			<Collapse line="29" />
+			<Collapse line="40" />
+			<Collapse line="46" />
+			<Collapse line="55" />
+			<Collapse line="57" />
+			<Collapse line="67" />
+			<Collapse line="76" />
+			<Collapse line="81" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Condition\GTS_Condition.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="196" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_GridManager\GTS_GridManager.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1934" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="17" />
+			<Collapse line="34" />
+		</Folding>
+	</File>
+	<File name="GTS_PackCreator\GTS_PackCreator.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="182" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="23" />
+			<Collapse line="38" />
+			<Collapse line="46" />
+			<Collapse line="56" />
+			<Collapse line="63" />
+			<Collapse line="73" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Parallel\GTS_Parallel.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="67" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Pawn\GTS_Pawn.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="76" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="11" />
+			<Collapse line="14" />
+			<Collapse line="19" />
+			<Collapse line="54" />
+			<Collapse line="56" />
+			<Collapse line="86" />
+		</Folding>
+	</File>
+	<File name="GTS_State\GTS_TestState.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5042" topLine="136" />
+		</Cursor>
+		<Folding>
+			<Collapse line="94" />
+			<Collapse line="98" />
+			<Collapse line="102" />
+			<Collapse line="106" />
+			<Collapse line="121" />
+			<Collapse line="125" />
+			<Collapse line="129" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Sequence\GTS_Sequence.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="235" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD
+	<File name="GTS_Grid\GTS_Grid.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Resource\GTS_Resource.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25" topLine="0" />
+		</Cursor>
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+	</File>
+	<File name="GTS_Window\GTS_Window.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5513" topLine="41" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="33" />
+			<Collapse line="44" />
+			<Collapse line="53" />
+			<Collapse line="60" />
+			<Collapse line="68" />
+			<Collapse line="70" />
+			<Collapse line="72" />
+			<Collapse line="78" />
+			<Collapse line="84" />
+			<Collapse line="89" />
+			<Collapse line="96" />
+			<Collapse line="101" />
+			<Collapse line="107" />
+			<Collapse line="113" />
+			<Collapse line="120" />
+			<Collapse line="125" />
+			<Collapse line="131" />
+			<Collapse line="138" />
+			<Collapse line="144" />
+			<Collapse line="159" />
+			<Collapse line="163" />
+			<Collapse line="185" />
+			<Collapse line="189" />
+			<Collapse line="203" />
+			<Collapse line="206" />
+			<Collapse line="210" />
+			<Collapse line="215" />
+			<Collapse line="217" />
+			<Collapse line="221" />
+			<Collapse line="227" />
+			<Collapse line="230" />
+			<Collapse line="234" />
+			<Collapse line="245" />
+			<Collapse line="257" />
+			<Collapse line="263" />
+			<Collapse line="283" />
+			<Collapse line="293" />
+			<Collapse line="300" />
+			<Collapse line="309" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_Character.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1101" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="16" />
+		</Folding>
+	</File>
+	<File name="GTS_Player\GTS_Player.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="62" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="6" />
+		</Folding>
+	</File>
+	<File name="GTS_Window\GTS_Window.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1325" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="11" />
+			<Collapse line="28" />
+			<Collapse line="30" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAbilities\GTS_CharacterAbilities.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_ResourceManager\GTS_ResourceManager.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="722" topLine="23" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="9" />
+			<Collapse line="19" />
+			<Collapse line="23" />
+			<Collapse line="25" />
+			<Collapse line="36" />
+			<Collapse line="40" />
+			<Collapse line="50" />
+			<Collapse line="75" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Condition\GTS_Condition.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="196" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="504" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAbilities\GTS_CharacterAbilities.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="305" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_ResourceManager\GTS_ResourceManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="195" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Condition\GTS_Condition.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="262" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="25" />
+			<Collapse line="44" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAnimations\GTS_CharacterAnimations.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="443" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+			<Collapse line="12" />
+		</Folding>
+	</File>
+	<File name="GTS_Resource\GTS_Resource.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Instruction.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="60" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Resource\GTS_Resource.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="596" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="37" />
+			<Collapse line="41" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Instruction.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="107" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterDescription\GTS_CharacterDescription.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="452" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_Resource\GTS_TestButtons.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="918" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="26" />
+			<Collapse line="49" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterDescription\GTS_CharacterDescription.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="360" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Resource\GTS_TestButtons.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="466" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Loop\GTS_Loop.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="110" topLine="0" />
+=======
+=======
+	<File name="GTS_Grid\GTS_Grid.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Resource\GTS_Resource.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Window\GTS_Window.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5513" topLine="41" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="33" />
+			<Collapse line="44" />
+			<Collapse line="53" />
+			<Collapse line="60" />
+			<Collapse line="68" />
+			<Collapse line="70" />
+			<Collapse line="72" />
+			<Collapse line="78" />
+			<Collapse line="84" />
+			<Collapse line="89" />
+			<Collapse line="96" />
+			<Collapse line="101" />
+			<Collapse line="107" />
+			<Collapse line="113" />
+			<Collapse line="120" />
+			<Collapse line="125" />
+			<Collapse line="131" />
+			<Collapse line="138" />
+			<Collapse line="144" />
+			<Collapse line="159" />
+			<Collapse line="163" />
+			<Collapse line="185" />
+			<Collapse line="189" />
+			<Collapse line="203" />
+			<Collapse line="206" />
+			<Collapse line="210" />
+			<Collapse line="215" />
+			<Collapse line="217" />
+			<Collapse line="221" />
+			<Collapse line="227" />
+			<Collapse line="230" />
+			<Collapse line="234" />
+			<Collapse line="245" />
+			<Collapse line="257" />
+			<Collapse line="263" />
+			<Collapse line="283" />
+			<Collapse line="293" />
+			<Collapse line="300" />
+			<Collapse line="309" />
+		</Folding>
+	</File>
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_Character.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2228" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="48" />
+			<Collapse line="57" />
+			<Collapse line="66" />
+			<Collapse line="75" />
+			<Collapse line="84" />
+			<Collapse line="93" />
+		</Folding>
+	</File>
+	<File name="GTS_Resource\GTS_Resource.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="596" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="37" />
+			<Collapse line="41" />
+		</Folding>
+	</File>
+	<File name="GTS_Resource\GTS_TestResource.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="483" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Condition\GTS_Condition.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="262" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="25" />
+			<Collapse line="44" />
+		</Folding>
+	</File>
+	<File name="GTS_Map\GTS_Map.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="77" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="GTS_Text\GTS_Text.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="118" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Wait\GTS_Wait.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="152" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterItems\GTS_CharacterItems.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="504" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_AI\GTS_PathFinder\GTS_PathFinder.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="604" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="16" />
+			<Collapse line="33" />
+			<Collapse line="40" />
+			<Collapse line="42" />
+			<Collapse line="47" />
+			<Collapse line="49" />
+			<Collapse line="56" />
+			<Collapse line="79" />
+			<Collapse line="84" />
+			<Collapse line="85" />
+			<Collapse line="96" />
+			<Collapse line="100" />
+			<Collapse line="148" />
+			<Collapse line="150" />
+			<Collapse line="154" />
+			<Collapse line="160" />
+			<Collapse line="162" />
+			<Collapse line="166" />
+		</Folding>
+	</File>
+	<File name="GTS_Grid\GTS_Grid.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="238" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="17" />
+			<Collapse line="29" />
+			<Collapse line="55" />
+			<Collapse line="64" />
+			<Collapse line="68" />
+			<Collapse line="72" />
+			<Collapse line="84" />
+			<Collapse line="99" />
+		</Folding>
+	</File>
+	<File name="GTS_Camera\GTS_Camera.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="851" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="GTS_Text\GTS_Text.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1123" topLine="26" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="20" />
+			<Collapse line="25" />
+			<Collapse line="32" />
+			<Collapse line="77" />
+			<Collapse line="88" />
+		</Folding>
+	</File>
+	<File name="GTS_Location\GTS_Location.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1097" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="GTS_Player\GTS_Human\GTS_Human.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="253" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="8" />
+			<Collapse line="13" />
+			<Collapse line="55" />
+			<Collapse line="57" />
+			<Collapse line="61" />
+			<Collapse line="66" />
+			<Collapse line="70" />
+			<Collapse line="75" />
+			<Collapse line="79" />
+			<Collapse line="83" />
+			<Collapse line="87" />
+			<Collapse line="94" />
+			<Collapse line="96" />
+			<Collapse line="100" />
+			<Collapse line="104" />
+			<Collapse line="108" />
+			<Collapse line="115" />
+			<Collapse line="117" />
+			<Collapse line="121" />
+			<Collapse line="126" />
+			<Collapse line="130" />
+			<Collapse line="135" />
+			<Collapse line="139" />
+			<Collapse line="143" />
+			<Collapse line="147" />
+			<Collapse line="157" />
+			<Collapse line="164" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_Character.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1101" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="16" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_OBJ.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_AI\GTS_PathFinder\GTS_PathFinder.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="746" topLine="0" />
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+		</Cursor>
+	</File>
+	<File name="GTS_Resource\GTS_TestResource.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="784" topLine="27" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="20" />
+			<Collapse line="24" />
+			<Collapse line="26" />
+			<Collapse line="41" />
+			<Collapse line="50" />
+			<Collapse line="52" />
+			<Collapse line="84" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterFeatures\GTS_CharacterFeatures.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Resource\GTS_TestResource.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="483" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Parallel\GTS_Parallel.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="67" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Camera\GTS_Camera.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="851" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterItems\GTS_CharacterItems.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+		</Folding>
+	</File>
+	<File name="GTS_StateMachine\GTS_StateMachine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1427" topLine="18" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="8" />
+			<Collapse line="10" />
+			<Collapse line="15" />
+			<Collapse line="23" />
+			<Collapse line="27" />
+			<Collapse line="29" />
+			<Collapse line="40" />
+			<Collapse line="46" />
+			<Collapse line="55" />
+			<Collapse line="57" />
+			<Collapse line="67" />
+			<Collapse line="76" />
+			<Collapse line="81" />
+		</Folding>
+	</File>
+	<File name="GTS_Command\GTS_Command.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="120" topLine="43" />
+		</Cursor>
+		<Folding>
+			<Collapse line="80" />
+			<Collapse line="90" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterItems\GTS_CharacterItems.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="269" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_StateMachine\GTS_StateMachine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Select\GTS_Select.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="101" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Engine\GTS_Engine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3874" topLine="71" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="25" />
+			<Collapse line="31" />
+			<Collapse line="42" />
+			<Collapse line="70" />
+			<Collapse line="73" />
+			<Collapse line="80" />
+			<Collapse line="96" />
+			<Collapse line="105" />
+			<Collapse line="129" />
+			<Collapse line="156" />
+			<Collapse line="175" />
+			<Collapse line="184" />
+			<Collapse line="187" />
+			<Collapse line="193" />
+			<Collapse line="202" />
+			<Collapse line="213" />
+			<Collapse line="224" />
+			<Collapse line="231" />
+			<Collapse line="250" />
+			<Collapse line="258" />
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_Resource\GTS_TestButtons.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="466" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="GTS_AI\GTS_Instruction\GTS_Task\GTS_Task.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="559" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="24" />
+		</Folding>
+	</File>
+	<File name="GTS_Game\GTS_Game.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_Camera\GTS_Camera.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="856" topLine="4" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="19" />
+			<Collapse line="25" />
+			<Collapse line="31" />
+			<Collapse line="117" />
+			<Collapse line="126" />
+			<Collapse line="165" />
+			<Collapse line="175" />
+		</Folding>
+	</File>
+	<File name="GTS_StateMachine\GTS_StateMachine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterDescription\GTS_CharacterDescription.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="360" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Command\GTS_Command.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="120" topLine="43" />
+		</Cursor>
+		<Folding>
+			<Collapse line="80" />
+			<Collapse line="90" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterItems\GTS_CharacterItems.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="269" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Object.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="218" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="10" />
+		</Folding>
+	</File>
+	<File name="GTS_Timer\GTS_Timer.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="250" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Pawn\GTS_Pawn.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1637" topLine="72" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="11" />
+			<Collapse line="17" />
+			<Collapse line="26" />
+			<Collapse line="30" />
+			<Collapse line="34" />
+			<Collapse line="38" />
+			<Collapse line="61" />
+			<Collapse line="115" />
+			<Collapse line="121" />
+			<Collapse line="131" />
+			<Collapse line="136" />
+			<Collapse line="148" />
+			<Collapse line="191" />
+			<Collapse line="197" />
+			<Collapse line="199" />
+			<Collapse line="203" />
+			<Collapse line="210" />
+			<Collapse line="217" />
+			<Collapse line="237" />
+			<Collapse line="240" />
+			<Collapse line="243" />
+			<Collapse line="247" />
+			<Collapse line="260" />
+			<Collapse line="332" />
+			<Collapse line="341" />
+			<Collapse line="349" />
+		</Folding>
+	</File>
+	<File name="GTS_Game\GTS_Game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="235" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_ResourceManager\GTS_ResourceManager.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="722" topLine="23" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="9" />
+			<Collapse line="19" />
+			<Collapse line="23" />
+			<Collapse line="25" />
+			<Collapse line="36" />
+			<Collapse line="40" />
+			<Collapse line="50" />
+			<Collapse line="75" />
+		</Folding>
+	</File>
+	<File name="GTS_Player\GTS_Player.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="62" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="6" />
+		</Folding>
+	</File>
+	<File name="GTS_ResourceManager\GTS_ResourceManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="195" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+		</Folding>
+	</File>
+	<File name="GTS_State\GTS_State.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="18" />
+			<Collapse line="20" />
+			<Collapse line="29" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_AI\GTS_Instruction\GTS_Sequence\GTS_Sequence.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="235" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Engine\GTS_Engine.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1808" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAbilities\GTS_CharacterAbilities.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_Resource\GTS_TestButtons.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="918" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="26" />
+			<Collapse line="49" />
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+		</Folding>
+	</File>
+	<File name="GTS_State\GTS_State.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="270" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="6" />
+			<Collapse line="8" />
+			<Collapse line="13" />
+			<Collapse line="18" />
+			<Collapse line="23" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+			<Collapse line="38" />
+			<Collapse line="43" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_Game\GTS_Game.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+		</Folding>
+	</File>
+	<File name="GTS_State\GTS_TestState.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2920" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="9" />
+			<Collapse line="18" />
+			<Collapse line="42" />
+			<Collapse line="84" />
+			<Collapse line="86" />
+			<Collapse line="117" />
+			<Collapse line="121" />
+			<Collapse line="125" />
+			<Collapse line="129" />
+			<Collapse line="136" />
+			<Collapse line="145" />
+			<Collapse line="149" />
+			<Collapse line="157" />
+			<Collapse line="169" />
+			<Collapse line="181" />
+		</Folding>
+	</File>
+	<File name="GTS_Game\GTS_Game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="235" topLine="0" />
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_AI\GTS_AI.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="847" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="27" />
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Character\GTS_CharacterAbilities\GTS_CharacterAbilities.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="305" topLine="0" />
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+		</Cursor>
+	</File>
+	<File name="GTS_State\GTS_TestState.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_AI\GTS_Instruction\GTS_Task\GTS_Task.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="559" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="24" />
+		</Folding>
+	</File>
+	<File name="GTS_GridManager\GTS_GridManager.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1934" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="17" />
+			<Collapse line="34" />
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_AI\GTS_Instruction\GTS_Instruction.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="60" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_Location\GTS_Location.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1126" topLine="44" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+			<Collapse line="37" />
+			<Collapse line="42" />
+			<Collapse line="46" />
+			<Collapse line="51" />
+			<Collapse line="55" />
+			<Collapse line="59" />
+			<Collapse line="76" />
+			<Collapse line="80" />
+			<Collapse line="88" />
+			<Collapse line="100" />
+			<Collapse line="108" />
+			<Collapse line="112" />
+			<Collapse line="114" />
+			<Collapse line="124" />
+			<Collapse line="128" />
+			<Collapse line="130" />
+			<Collapse line="142" />
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+		</Folding>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Object.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="59" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="50" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<File name="GTS_Text\GTS_Text.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1123" topLine="26" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="20" />
+			<Collapse line="25" />
+			<Collapse line="32" />
+			<Collapse line="77" />
+			<Collapse line="88" />
+		</Folding>
+	</File>
+	<File name="GTS_GridManager\GTS_GridManager.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GTS_OBJ\GTS_Object\GTS_Object.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="218" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="10" />
+		</Folding>
+	</File>
+	<File name="GTS_Text\GTS_Text.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="118" topLine="0" />
+		</Cursor>
+	</File>
+=======
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+	<File name="GTS_Button\GTS_Button.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2434" topLine="36" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="21" />
+			<Collapse line="32" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
+>>>>>>> 68f35862192d0f148c4b0163c6eae97d8fb8dd59
+=======
+>>>>>>> 98a192960f4fc544ec30ad0d6c544bd73b4c29f0
+</CodeBlocks_layout_file>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GTS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GTS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="GTS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="G:/Projekty c++/GTS/GTS/.objs" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="GTS/GTS_Button" />
+					<Add directory="GTS/GTS_Resource" />
+					<Add directory="GTS/New folder" />
+					<Add directory="GTS/GTS_Action" />
+					<Add directory="GTS/GTS_Tile" />
+					<Add directory="GTS/GTS_Player" />
+					<Add directory="GTS/GTS_Player/GTS_Human" />
+					<Add directory="GTS/GTS_Object/GTS_Actor" />
+					<Add directory="GTS/GTS_Map" />
+					<Add directory="GTS/GTS_GridManager" />
+					<Add directory="GTS/GTS_Location" />
+					<Add directory="GTS/GTS_Animation" />
+					<Add directory="GTS/GTS_Frame" />
+					<Add directory="GTS/GTS_Skeleton" />
+					<Add directory="GTS/GTS_PathFinder" />
+					<Add directory="GTS/GTS_Animation/GTS_Bone" />
+					<Add directory="GTS/GTS_Animation/GTS_Skin" />
+					<Add directory="GTS/GTS_Object/GTS_Pawn" />
+					<Add directory="GTS/GTS_Grid" />
+					<Add directory="GTS/GTS_Game" />
+					<Add directory="GTS/GTS_MiniMap" />
+					<Add directory="GTS/GTS_AI" />
+					<Add directory="GTS/GTS_AI/GTS_Task" />
+					<Add directory="GTS/GTS_AI/GTS_Wait" />
+					<Add directory="GTS/GTS_AI/GTS_Loop" />
+					<Add directory="GTS/GTS_AI/GTS_Parallel" />
+					<Add directory="GTS/GTS_AI/GTS_Select" />
+					<Add directory="GTS/GTS_AI/GTS_Condition" />
+					<Add directory="GTS/GTS_AI/GTS_Instruction" />
+					<Add directory="GTS/GTS_AI/GTS_Instruction/GTS_Action" />
+					<Add directory="GTS/GTS_Animation/GTS_Pawn" />
+					<Add directory="GTS/GTS_Object/GTS_Item" />
+					<Add directory="GTS/GTS_Object/GTS_Character" />
+					<Add directory="GTS/GTS_Object/GTS_Creature" />
+					<Add directory="GTS/GTS_OBJ/GTS_Object" />
+					<Add directory="GTS/GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterFeatures" />
+					<Add directory="GTS/GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterAbilities" />
+					<Add directory="GTS/GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterItems" />
+					<Add directory="GTS/GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterState" />
+					<Add directory="GTS/GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterAnimations" />
+					<Add directory="GTS/GTS_Resource/GTS_UserResource" />
+					<Add directory="GTS/GTS_WindowManager" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../MinGW_dev/i686-w64-mingw32/include/SDL2" />
+			<Add directory="../GTS" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf" />
+			<Add directory="../../MinGW_dev/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="GTS_AI/GTS_AI.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_AI.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Action/GTS_Action.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Action/GTS_Action.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Condition/GTS_Condition.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Condition/GTS_Condition.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Instruction.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Instruction.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Loop/GTS_Loop.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Loop/GTS_Loop.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Parallel/GTS_Parallel.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Parallel/GTS_Parallel.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Select/GTS_Select.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Select/GTS_Select.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Sequence/GTS_Sequence.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Sequence/GTS_Sequence.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Task/GTS_Task.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Task/GTS_Task.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Wait/GTS_Wait.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_Instruction/GTS_Wait/GTS_Wait.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_PathFinder/GTS_PathFinder.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_AI/GTS_PathFinder/GTS_PathFinder.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Button/GTS_Button.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Button/GTS_Button.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Camera/GTS_Camera.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Camera/GTS_Camera.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Command/GTS_Command.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Engine/GTS_Engine.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Engine/GTS_Engine.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Game/GTS_Game.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Game/GTS_Game.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_GridManager/GTS_GridManager.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_GridManager/GTS_GridManager.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Grid/GTS_Grid.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Grid/GTS_Grid.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Location/GTS_Location.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Location/GTS_Location.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Map/GTS_Map.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Map/GTS_Map.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_MiniMap/GTS_MiniMap.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_MiniMap/GTS_MiniMap.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_OBJ.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_OBJ.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_Character.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_Character.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterAbilities/GTS_CharacterAbilities.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterAbilities/GTS_CharacterAbilities.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterAnimations/GTS_CharacterAnimations.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterAnimations/GTS_CharacterAnimations.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterDescription/GTS_CharacterDescription.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterDescription/GTS_CharacterDescription.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterFeatures/GTS_CharacterFeatures.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterFeatures/GTS_CharacterFeatures.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterItems/GTS_CharacterItems.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterItems/GTS_CharacterItems.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterState/GTS_CharacterState.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Character/GTS_CharacterState/GTS_CharacterState.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Item/GTS_Item.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Item/GTS_Item.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Object.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Object.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Tile/GTS_Tile.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_OBJ/GTS_Object/GTS_Tile/GTS_Tile.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_PackCreator/GTS_PackCreator.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_PackCreator/GTS_PackCreator.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Pawn/GTS_Pawn.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Pawn/GTS_Pawn.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Pixel32/GTS_Pixel32.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Pixel32/GTS_Pixel32.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Player/GTS_Human/GTS_Human.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Player/GTS_Human/GTS_Human.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Player/GTS_Player.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Player/GTS_Player.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_ResourceManager/GTS_ResourceManager.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_ResourceManager/GTS_ResourceManager.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Resource/GTS_Resource.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Resource/GTS_Resource.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Resource/GTS_TestButtons.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Resource/GTS_TestButtons.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Resource/GTS_TestResource.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Resource/GTS_TestResource.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_StateMachine/GTS_StateMachine.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_StateMachine/GTS_StateMachine.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_State/GTS_State.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_State/GTS_State.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_State/GTS_TestState.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_State/GTS_TestState.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Text/GTS_Text.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Text/GTS_Text.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Texture/GTS_Texture.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Texture/GTS_Texture.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Timer/GTS_Timer.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Timer/GTS_Timer.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Utilities/StringConversion.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Utilities/iostring.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Utilities/triangleMath.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Vector/GTS_Vector.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_WindowManager/GTS_WindowManager.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_WindowManager/GTS_WindowManager.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Window/GTS_Window.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="GTS_Window/GTS_Window.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

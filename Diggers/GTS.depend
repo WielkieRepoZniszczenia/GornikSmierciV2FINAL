@@ -1,0 +1,741 @@
+# depslib dependency file v1.0
+1137270371 source:g:\projekty c++\gts\main.cpp
+	<iostream>
+	<string>
+	"GTS_Engine/GTS_Engine.h"
+
+1416997665 g:\projekty c++\gts\gts_engine\gts_engine.h
+	<SDL.h>
+	<SDL_image.h>
+	"GTS_Timer/GTS_Timer.h"
+	"GTS_Window/GTS_Window.h"
+	"GTS_ResourceManager/GTS_ResourceManager.h"
+	"GTS_StateMachine/GTS_StateMachine.h"
+	"StringConversion.cpp"
+	"GTS_Engine.cpp"
+	"GTS_Command/GTS_Command.h"
+	"GTS_Camera/GTS_Camera.h"
+	"GTS_Animation/GTS_Animation.h"
+	"GTS_Object/GTS_Object.h"
+	"GTS_Tile/GTS_Tile.h"
+	"GTS_Location/GTS_Location.h"
+	"GTS_Grid/GTS_Grid.h"
+	"GTS_Player/GTS_Player.h"
+	"GTS_AI/GTS_AI.h"
+	"GTS_MiniMap/GTS_MiniMap.h"
+	"GTS_Map/GTS_Map.h"
+	"GTS_Game/GTS_Game.h"
+	"GTS_Button/GTS_Button.h"
+	"GTS_Resource/GTS_TestButtons.h"
+	"GTS_Resource/GTS_TestResource.h"
+	"GTS_Resource/GTS_ActorAnimations.h"
+	"GTS_State/GTS_TestState.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1411567519 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1136119415 g:\projekty c++\gts\gts_engine\gts_engine.cpp
+
+1136764416 g:\projekty c++\gts\gts_resource\gts_testresource.h
+	"GTS_Resource/GTS_Resource.h"
+	"GTS_TestResource.cpp"
+
+1136119242 g:\projekty c++\gts\gts_resource\gts_testresource.cpp
+
+1136764444 g:\projekty c++\gts\gts_state\gts_teststate.h
+	"GTS_State/GTS_State.h"
+	"GTS_TestState.cpp"
+
+1136764607 g:\projekty c++\gts\gts_state\gts_teststate.cpp
+
+1413214322 source:g:\projekty c++\gts\main2.cpp
+
+1412862700 g:\projekty c++\gts\\gts_timer\gts_timer.h
+	"GTS_Timer.cpp"
+
+1412862679 g:\projekty c++\gts\\gts_timer\gts_timer.cpp
+
+1413123623 g:\projekty c++\gts\\gts_window\gts_window.h
+	<stdio.h>
+	<string>
+	<typedefs.cpp>
+	<SDL.h>
+	"GTS_Window.cpp"
+
+1413123632 g:\projekty c++\gts\\gts_window\gts_window.cpp
+
+1412983338 g:\projekty c++\gts\\gts_resourcemanager\gts_resourcemanager.h
+	<list>
+	<typeinfo>
+	"GTS_Resource/GTS_Resource.h"
+	"GTS_ResourceManager.cpp"
+
+1413127578 g:\projekty c++\gts\\gts_resource\gts_resource.h
+	"GTS_Texture/GTS_Texture.h"
+	"GTS_Text/GTS_Text.h"
+	"GTS_PackCreator/GTS_PackCreator.h"
+	"GTS_Resource.cpp"
+
+1413124060 g:\projekty c++\gts\\gts_texture\gts_texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"GTS_Texture.cpp"
+
+1376152742 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1413127042 g:\projekty c++\gts\\gts_texture\gts_texture.cpp
+
+1413127256 g:\projekty c++\gts\\gts_text\gts_text.h
+	<SDL_ttf.h>
+	<string>
+	"GTS_Text.cpp"
+
+1376152944 g:\mingw_dev\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1413128043 g:\projekty c++\gts\\gts_text\gts_text.cpp
+
+1412287354 g:\projekty c++\gts\\gts_packcreator\gts_packcreator.h
+	<stdio.h>
+	<fstream>
+	<string>
+	"iostring.cpp"
+	<map>
+	"GTS_PackCreator.cpp"
+
+1412290584 g:\projekty c++\gts\\gts_packcreator\gts_packcreator.cpp
+
+1412983114 g:\projekty c++\gts\\gts_resource\gts_resource.cpp
+
+1412983443 g:\projekty c++\gts\\gts_resourcemanager\gts_resourcemanager.cpp
+
+1412984950 g:\projekty c++\gts\\gts_statemachine\gts_statemachine.h
+	<stdio.h>
+	<vector>
+	"GTS_State/GTS_State.h"
+	<typeinfo>
+	"GTS_StateMachine.cpp"
+
+1412985275 g:\projekty c++\gts\\gts_state\gts_state.h
+	<string>
+	"GTS_State.cpp"
+
+1412985283 g:\projekty c++\gts\\gts_state\gts_state.cpp
+
+1412984992 g:\projekty c++\gts\\gts_statemachine\gts_statemachine.cpp
+
+1413273159 g:\projekty c++\gts\gts_timer\gts_timer.h
+	"GTS_Timer.cpp"
+
+1413273117 g:\projekty c++\gts\gts_timer\gts_timer.cpp
+
+1414399911 g:\projekty c++\gts\gts_window\gts_window.h
+	<stdio.h>
+	<string>
+	<typedefs.cpp>
+	<SDL.h>
+	"GTS_Window.cpp"
+
+1414399915 g:\projekty c++\gts\gts_window\gts_window.cpp
+
+1413573252 g:\projekty c++\gts\gts_resourcemanager\gts_resourcemanager.h
+	<list>
+	<typeinfo>
+	"GTS_Resource/GTS_Resource.h"
+	"GTS_ResourceManager.cpp"
+
+1136697397 g:\projekty c++\gts\gts_resource\gts_resource.h
+	"GTS_Text/GTS_Text.h"
+	"GTS_PackCreator/GTS_PackCreator.h"
+	"GTS_Resource.cpp"
+
+1413573125 g:\projekty c++\gts\gts_texture\gts_texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<vector>
+	"GTS_Texture.cpp"
+
+1413573104 g:\projekty c++\gts\gts_texture\gts_texture.cpp
+
+1413572350 g:\projekty c++\gts\gts_text\gts_text.h
+	<SDL_ttf.h>
+	<string>
+	"GTS_Text.cpp"
+
+1413572358 g:\projekty c++\gts\gts_text\gts_text.cpp
+
+1413212799 g:\projekty c++\gts\gts_packcreator\gts_packcreator.h
+	<stdio.h>
+	<fstream>
+	<string>
+	"iostring.cpp"
+	<map>
+	"GTS_PackCreator.cpp"
+
+1412286984 g:\projekty c++\gts\gts_packcreator\gts_packcreator.cpp
+
+1413571758 g:\projekty c++\gts\gts_resource\gts_resource.cpp
+
+1413573259 g:\projekty c++\gts\gts_resourcemanager\gts_resourcemanager.cpp
+
+1413572410 g:\projekty c++\gts\gts_statemachine\gts_statemachine.h
+	<stdio.h>
+	<vector>
+	"GTS_State/GTS_State.h"
+	<typeinfo>
+	"GTS_StateMachine.cpp"
+
+1413572444 g:\projekty c++\gts\gts_state\gts_state.h
+	<string>
+	"GTS_State.cpp"
+
+1413572444 g:\projekty c++\gts\gts_state\gts_state.cpp
+
+1413572437 g:\projekty c++\gts\gts_statemachine\gts_statemachine.cpp
+
+1136697417 g:\projekty c++\gts\gts_button\gts_button.h
+	"GTS_Button.cpp"
+
+1413575306 g:\projekty c++\gts\gts_button\gts_button.cpp
+
+1413573786 g:\projekty c++\gts\gts_resource\gts_testbuttons.h
+	"GTS_Resource/GTS_Resource.h"
+	"GTS_TestButtons.cpp"
+
+1413577389 g:\projekty c++\gts\gts_resource\gts_testbuttons.cpp
+
+1416998070 g:\projekty c++\gts\gts_object\gts_object.h
+	"GTS_Animation/GTS_Pawn/GTS_Pawn.h"
+	"GTS_Object/GTS_Object.cpp"
+
+1416998049 g:\projekty c++\gts\gts_object\gts_object.cpp
+
+1413702822 g:\projekty c++\gts\gts_action\gts_action.h
+	"GTS_Action/GTS_Action.cpp"
+
+1413712397 g:\projekty c++\gts\gts_action\gts_action.cpp
+
+1136076251 g:\projekty c++\gts\gts_tile\gts_tile.h
+	"GTS_Tile.cpp"
+
+1414866939 g:\projekty c++\gts\gts_tile\gts_tile.cpp
+
+1414488150 g:\projekty c++\gts\gts_command\gts_command.h
+
+1413986483 g:\projekty c++\gts\gts_command\gts_command.cpp
+
+1136076251 g:\projekty c++\gts\gts_object\gts_tile\gts_tile.h
+	"GTS_Tile.cpp"
+
+1136878146 g:\projekty c++\gts\gts_object\gts_actor\gts_actor.h
+	"GTS_Object/GTS_Object.h"
+	"GTS_Actor.cpp"
+
+1136697069 g:\projekty c++\gts\gts_object\gts_actor\gts_actor.cpp
+
+1414866939 g:\projekty c++\gts\gts_object\gts_tile\gts_tile.cpp
+
+1136885800 g:\projekty c++\gts\gts_camera\gts_camera.h
+	"GTS_Camera.cpp"
+
+1414399924 g:\projekty c++\gts\gts_camera\gts_camera.cpp
+
+1136244144 g:\projekty c++\gts\gts_gridmanager\gts_gridmanager.h
+	"GTS_GridManager.cpp"
+
+1414867281 g:\projekty c++\gts\gts_gridmanager\gts_gridmanager.cpp
+
+1417000360 g:\projekty c++\gts\gts_location\gts_location.h
+	<list>
+	"GTS_Location.cpp"
+
+1417000056 g:\projekty c++\gts\gts_location\gts_location.cpp
+
+1136756564 g:\projekty c++\gts\gts_animation\gts_animation.h
+	<list>
+	<fstream>
+	"GTS_Bone/GTS_Bone.h"
+	"GTS_Skeleton/GTS_Skeleton.h"
+	"GTS_Frame/GTS_Frame.h"
+	"GTS_Texture/GTS_Texture.h"
+	"GTS_Skin/GTS_Skin.h"
+	"GTS_Animation.cpp"
+
+1417000250 g:\projekty c++\gts\gts_animation\gts_bone\gts_bone.h
+	<fstream>
+	"GTS_Bone.cpp"
+
+1136753955 g:\projekty c++\gts\gts_animation\gts_bone\gts_bone.cpp
+
+1136753671 g:\projekty c++\gts\gts_animation\gts_skeleton\gts_skeleton.h
+	<vector>
+	"GTS_Skeleton.cpp"
+
+1136753807 g:\projekty c++\gts\gts_animation\gts_skeleton\gts_skeleton.cpp
+
+1136243008 g:\projekty c++\gts\gts_animation\gts_frame\gts_frame.h
+	<fstream>
+	"GTS_Frame.cpp"
+
+1136243167 g:\projekty c++\gts\gts_animation\gts_frame\gts_frame.cpp
+
+1136764031 g:\projekty c++\gts\gts_animation\gts_animation.cpp
+
+1136749928 g:\projekty c++\gts\gts_animation\gts_texture\gts_texture.h
+	<string>
+	<vector>
+	"GTS_Texture.cpp"
+
+1136765071 g:\projekty c++\gts\gts_animation\gts_texture\gts_texture.cpp
+
+1136071621 g:\projekty c++\gts\gts_animation\gts_skin\gts_skin.h
+	<vector>
+	"GTS_Skin.cpp"
+
+1136764736 g:\projekty c++\gts\gts_animation\gts_skin\gts_skin.cpp
+
+1136763559 g:\projekty c++\gts\gts_resource\gts_actoranimations.h
+	<vector>
+	"GTS_Resource/GTS_Resource.h"
+	"GTS_Animation/GTS_Animation.h"
+	"GTS_Resource/GTS_ActorSkins.h"
+	"GTS_ActorAnimations.cpp"
+
+1136763540 g:\projekty c++\gts\gts_resource\gts_actoranimations.cpp
+
+1136765613 g:\projekty c++\gts\gts_resource\gts_actorskins.h
+	"GTS_ActorSkins.cpp"
+
+1136765862 g:\projekty c++\gts\gts_resource\gts_actorskins.cpp
+
+1137292069 g:\projekty c++\gts\gts_grid\gts_grid.h
+	<vector>
+	"GTS_Location/GTS_Location.h"
+	"GTS_Grid.cpp"
+
+1136880431 g:\projekty c++\gts\gts_grid\gts_grid.cpp
+
+1136885834 g:\projekty c++\gts\gts_map\gts_map.h
+	<list>
+	<fstream>
+	"GTS_Object/GTS_Object.h"
+	"GTS_Grid/GTS_Grid.h"
+	"GTS_MiniMap/GTS_MiniMap.h"
+	"GTS_Map.cpp"
+
+1136883191 g:\projekty c++\gts\gts_map\gts_map.cpp
+
+1136881223 g:\projekty c++\gts\gts_game\gts_game.h
+	"GTS_Player/GTS_Player.h"
+	"GTS_Map/GTS_Map.h"
+	"GTS_Game.cpp"
+
+1416998759 g:\projekty c++\gts\gts_player\gts_player.h
+	"GTS_Player.cpp"
+
+1416998769 g:\projekty c++\gts\gts_player\gts_player.cpp
+
+1136882438 g:\projekty c++\gts\gts_game\gts_game.cpp
+
+1136883368 g:\projekty c++\gts\gts_minimap\gts_minimap.h
+	"GTS_Grid/GTS_Grid.h"
+	"GTS_MiniMap.cpp"
+
+1136883312 g:\projekty c++\gts\gts_minimap\gts_minimap.cpp
+
+1416819946 g:\projekty c++\gts\gts_ai\gts_ai.h
+	<list>
+	"GTS_Instruction/GTS_Instruction.h"
+	"GTS_PathFinder/GTS_PathFinder.h"
+	"GTS_Instruction/GTS_Loop/GTS_Loop.h"
+	"GTS_Instruction/GTS_Condition/GTS_Condition.h"
+	"GTS_Instruction/GTS_Parallel/GTS_Parallel.h"
+	"GTS_Instruction/GTS_Select/GTS_Select.h"
+	"GTS_Instruction/GTS_Wait/GTS_Wait.h"
+	"GTS_Instruction/GTS_Task/GTS_Task.h"
+	"GTS_AI.cpp"
+
+1416821319 g:\projekty c++\gts\gts_ai\gts_instruction\gts_instruction.h
+	"GTS_Instruction.cpp"
+
+1137266724 g:\projekty c++\gts\gts_ai\gts_instruction\gts_instruction.cpp
+
+1416820628 g:\projekty c++\gts\gts_ai\gts_ai.cpp
+
+1137266766 g:\projekty c++\gts\gts_ai\gts_instruction\gts_loop\gts_loop.h
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Loop.cpp"
+
+1137264904 g:\projekty c++\gts\gts_ai\gts_instruction\gts_loop\gts_loop.cpp
+
+1137270381 g:\projekty c++\gts\gts_ai\gts_instruction\gts_condition\gts_condition.h
+	"GTS_Condition.cpp"
+
+1137269416 g:\projekty c++\gts\gts_ai\gts_instruction\gts_condition\gts_condition.cpp
+
+1137277352 g:\projekty c++\gts\gts_ai\gts_instruction\gts_parallel\gts_parallel.h
+	<list>
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Parallel.cpp"
+
+1137265007 g:\projekty c++\gts\gts_ai\gts_instruction\gts_parallel\gts_parallel.cpp
+
+1137285908 g:\projekty c++\gts\gts_ai\gts_instruction\gts_select\gts_select.h
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Select.cpp"
+
+1137265404 g:\projekty c++\gts\gts_ai\gts_instruction\gts_select\gts_select.cpp
+
+1137266918 g:\projekty c++\gts\gts_ai\gts_instruction\gts_wait\gts_wait.h
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Wait.cpp"
+
+1137264464 g:\projekty c++\gts\gts_ai\gts_instruction\gts_wait\gts_wait.cpp
+
+1137292616 g:\projekty c++\gts\gts_ai\gts_instruction\gts_task\gts_task.h
+	<string>
+	"GTS_Task.cpp"
+
+1137264341 g:\projekty c++\gts\gts_ai\gts_instruction\gts_task\gts_task.cpp
+
+1137287808 g:\projekty c++\gts\gts_pathfinder\gts_pathfinder.h
+	<list>
+	"GTS_Location/GTS_Location.h"
+	"GTS_PathFinder.cpp"
+
+1137287859 g:\projekty c++\gts\gts_pathfinder\gts_pathfinder.cpp
+
+1137291923 g:\projekty c++\gts\gts_ai\gts_pathfinder\gts_pathfinder.h
+	<list>
+	"GTS_Location/GTS_Location.h"
+	"GTS_PathFinder.cpp"
+
+1416999109 g:\projekty c++\gts\gts_ai\gts_pathfinder\gts_pathfinder.cpp
+
+1416998035 g:\projekty c++\gts\gts_animation\gts_pawn\gts_pawn.h
+	"GTS_Animation/GTS_Skin/GTS_Skin.h"
+	"GTS_Pawn.cpp"
+
+1416999300 g:\projekty c++\gts\gts_animation\gts_pawn\gts_pawn.cpp
+
