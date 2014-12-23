@@ -1,232 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="..\GTS\GTS_Location\GTS_Location.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2216" topLine="95" />
-		</Cursor>
-		<Folding>
-			<Collapse line="19" />
-			<Collapse line="28" />
-			<Collapse line="32" />
-			<Collapse line="37" />
-			<Collapse line="41" />
-			<Collapse line="46" />
-			<Collapse line="50" />
-			<Collapse line="55" />
-			<Collapse line="59" />
-			<Collapse line="63" />
-			<Collapse line="72" />
-			<Collapse line="81" />
-			<Collapse line="85" />
-		</Folding>
-	</File>
 	<File name="DIG_InitializeGame\DIG_InitializeGame.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="309" topLine="0" />
+			<Cursor1 position="260" topLine="0" />
 		</Cursor>
 		<Folding>
 			<Collapse line="5" />
 			<Collapse line="12" />
 			<Collapse line="22" />
 			<Collapse line="30" />
-			<Collapse line="40" />
-			<Collapse line="51" />
-			<Collapse line="53" />
-			<Collapse line="79" />
-			<Collapse line="81" />
-			<Collapse line="88" />
-			<Collapse line="99" />
-			<Collapse line="103" />
-			<Collapse line="104" />
-			<Collapse line="109" />
-			<Collapse line="116" />
-			<Collapse line="123" />
-			<Collapse line="133" />
 		</Folding>
 	</File>
-	<File name="..\GTS\GTS_WindowManager\GTS_WindowManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\GTS\GTS_Camera\GTS_Camera.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="355" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Texture\GTS_Texture.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="761" topLine="0" />
-		</Cursor>
-		<Folding>
-			<Collapse line="8" />
-			<Collapse line="10" />
-			<Collapse line="13" />
-			<Collapse line="25" />
-			<Collapse line="50" />
-			<Collapse line="55" />
-			<Collapse line="65" />
-		</Folding>
-	</File>
-	<File name="DIG_InitializeGame\DIG_InitializeGame.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Engine\GTS_Engine.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2527" topLine="96" />
-		</Cursor>
-		<Folding>
-			<Collapse line="42" />
-			<Collapse line="57" />
-			<Collapse line="89" />
-			<Collapse line="116" />
-			<Collapse line="169" />
-			<Collapse line="172" />
-			<Collapse line="188" />
-			<Collapse line="191" />
-			<Collapse line="206" />
-			<Collapse line="209" />
-			<Collapse line="215" />
-			<Collapse line="219" />
-			<Collapse line="237" />
-			<Collapse line="244" />
-			<Collapse line="263" />
-			<Collapse line="271" />
-		</Folding>
-	</File>
-	<File name="..\GTS\GTS_Map\GTS_Map.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="571" topLine="1" />
-		</Cursor>
-		<Folding>
-			<Collapse line="5" />
-			<Collapse line="17" />
-			<Collapse line="19" />
-			<Collapse line="23" />
-			<Collapse line="31" />
-			<Collapse line="35" />
-			<Collapse line="49" />
-			<Collapse line="51" />
-			<Collapse line="57" />
-			<Collapse line="59" />
-			<Collapse line="70" />
-			<Collapse line="76" />
-			<Collapse line="79" />
-			<Collapse line="84" />
-			<Collapse line="92" />
-			<Collapse line="98" />
-			<Collapse line="101" />
-			<Collapse line="106" />
-		</Folding>
-	</File>
-	<File name="..\GTS\GTS_ResourceManager\GTS_ResourceManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="66" topLine="0" />
-		</Cursor>
-		<Folding>
-			<Collapse line="10" />
-			<Collapse line="13" />
-			<Collapse line="21" />
-			<Collapse line="28" />
-			<Collapse line="33" />
-		</Folding>
-	</File>
-	<File name="DIG_Map\DIG_Map.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="61" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Game\GTS_Game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1325" topLine="21" />
-		</Cursor>
-		<Folding>
-			<Collapse line="10" />
-			<Collapse line="22" />
-			<Collapse line="28" />
-		</Folding>
-	</File>
-	<File name="DIG_GameIntro\DIG_GameIntro.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="330" topLine="6" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_MiniMap\GTS_MiniMap.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="168" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="DIG_Resources\DIG_InitRes.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="137" topLine="0" />
-		</Cursor>
-		<Folding>
-			<Collapse line="6" />
-			<Collapse line="10" />
-			<Collapse line="19" />
-			<Collapse line="21" />
-			<Collapse line="23" />
-			<Collapse line="36" />
-			<Collapse line="40" />
-			<Collapse line="42" />
-			<Collapse line="52" />
-			<Collapse line="59" />
-			<Collapse line="79" />
-		</Folding>
-	</File>
-	<File name="..\GTS\GTS_Resource\GTS_Resource.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="69" topLine="0" />
-		</Cursor>
-		<Folding>
-			<Collapse line="7" />
-			<Collapse line="37" />
-		</Folding>
-	</File>
-	<File name="DIG_GameIntro\DIG_GameIntro.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="444" topLine="5" />
-		</Cursor>
-		<Folding>
-			<Collapse line="13" />
-			<Collapse line="44" />
-			<Collapse line="53" />
-			<Collapse line="55" />
-			<Collapse line="60" />
-			<Collapse line="69" />
-			<Collapse line="73" />
-			<Collapse line="86" />
-		</Folding>
-	</File>
-	<File name="..\GTS\GTS_StateMachine\GTS_StateMachine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1226" topLine="3" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Game\GTS_Game.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="549" topLine="16" />
-		</Cursor>
-		<Folding>
-			<Collapse line="5" />
-			<Collapse line="9" />
-			<Collapse line="19" />
-			<Collapse line="59" />
-			<Collapse line="78" />
-			<Collapse line="82" />
-		</Folding>
-	</File>
-	<File name="diggers.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="99" topLine="6" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Pixel32\GTS_Pixel32.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="274" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Location\GTS_Location.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1063" topLine="4" />
+			<Cursor1 position="108" topLine="36" />
 		</Cursor>
 	</File>
 	<File name="..\GTS\GTS_State\GTS_State.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -237,48 +25,9 @@
 			<Collapse line="9" />
 		</Folding>
 	</File>
-	<File name="..\GTS\GTS_Text\GTS_Text.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="DIG_InitializeGame\DIG_InitializeGame.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1660" topLine="80" />
-		</Cursor>
-		<Folding>
-			<Collapse line="78" />
-		</Folding>
-	</File>
-	<File name="DIG_Resources\DIG_TileRes.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="434" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Map\GTS_Map.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="363" topLine="11" />
-		</Cursor>
-	</File>
-	<File name="DIG_Resources\DIG_TileRes.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1056" topLine="42" />
-		</Cursor>
-		<Folding>
-			<Collapse line="5" />
-			<Collapse line="9" />
-			<Collapse line="35" />
-			<Collapse line="39" />
-			<Collapse line="41" />
-			<Collapse line="108" />
-			<Collapse line="120" />
-			<Collapse line="124" />
-			<Collapse line="128" />
-		</Folding>
-	</File>
-	<File name="..\GTS\GTS_Text\GTS_Text.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="508" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Utilities\iostring.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1152" topLine="54" />
+			<Cursor1 position="258" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="..\GTS\GTS_Texture\GTS_Texture.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -310,6 +59,75 @@
 			<Collapse line="240" />
 		</Folding>
 	</File>
+	<File name="..\GTS\GTS_Engine\GTS_Engine.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2527" topLine="96" />
+		</Cursor>
+		<Folding>
+			<Collapse line="42" />
+			<Collapse line="57" />
+			<Collapse line="89" />
+			<Collapse line="116" />
+			<Collapse line="169" />
+			<Collapse line="172" />
+			<Collapse line="188" />
+			<Collapse line="191" />
+			<Collapse line="206" />
+			<Collapse line="209" />
+			<Collapse line="215" />
+			<Collapse line="219" />
+			<Collapse line="237" />
+			<Collapse line="244" />
+			<Collapse line="263" />
+			<Collapse line="271" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_ResourceManager\GTS_ResourceManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="66" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="13" />
+			<Collapse line="21" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_Camera\GTS_Camera.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2537" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_Texture\GTS_Texture.h" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2130" topLine="50" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="10" />
+			<Collapse line="13" />
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="DIG_Resources\DIG_InitRes.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="137" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Utilities\iostring.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1187" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DIG_Resources\DIG_InitRes.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
 	<File name="..\GTS\GTS_State\GTS_State.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="246" topLine="0" />
@@ -324,95 +142,45 @@
 			<Collapse line="43" />
 		</Folding>
 	</File>
-	<File name="..\GTS\GTS_WindowManager\GTS_WindowManager.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\GTS\GTS_Grid\GTS_Grid.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="863" topLine="28" />
+			<Cursor1 position="301" topLine="18" />
 		</Cursor>
 		<Folding>
-			<Collapse line="57" />
-			<Collapse line="66" />
+			<Collapse line="26" />
+			<Collapse line="39" />
 			<Collapse line="68" />
-			<Collapse line="84" />
-			<Collapse line="86" />
-			<Collapse line="89" />
-			<Collapse line="91" />
-		</Folding>
-	</File>
-	<File name="DIG_Game\DIG_Game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="126" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_ResourceManager\GTS_ResourceManager.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="869" topLine="15" />
-		</Cursor>
-		<Folding>
-			<Collapse line="5" />
-			<Collapse line="7" />
-			<Collapse line="9" />
-			<Collapse line="19" />
-			<Collapse line="23" />
-			<Collapse line="25" />
-			<Collapse line="36" />
-			<Collapse line="40" />
-			<Collapse line="81" />
-			<Collapse line="84" />
-			<Collapse line="86" />
-			<Collapse line="98" />
-			<Collapse line="103" />
-		</Folding>
-	</File>
-	<File name="..\GTS\GTS_Grid\GTS_Grid.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="249" topLine="3" />
-		</Cursor>
-		<Folding>
-			<Collapse line="25" />
-			<Collapse line="30" />
-			<Collapse line="35" />
-		</Folding>
-	</File>
-	<File name="..\GTS\GTS_StateMachine\GTS_StateMachine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="567" topLine="0" />
-		</Cursor>
-		<Folding>
-			<Collapse line="6" />
-			<Collapse line="8" />
-			<Collapse line="10" />
-			<Collapse line="15" />
-			<Collapse line="23" />
-			<Collapse line="40" />
-			<Collapse line="46" />
-			<Collapse line="55" />
-			<Collapse line="57" />
-			<Collapse line="67" />
 			<Collapse line="74" />
-			<Collapse line="76" />
 			<Collapse line="81" />
-			<Collapse line="92" />
-			<Collapse line="104" />
-			<Collapse line="109" />
+			<Collapse line="87" />
+			<Collapse line="93" />
+			<Collapse line="107" />
+			<Collapse line="213" />
 		</Folding>
 	</File>
-	<File name="..\GTS\GTS_Camera\GTS_Camera.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\GTS\GTS_MiniMap\GTS_MiniMap.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="110" topLine="0" />
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Pixel32\GTS_Pixel32.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="274" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DIG_GameIntro\DIG_GameIntro.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="330" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Resource\GTS_Resource.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="69" topLine="0" />
 		</Cursor>
 		<Folding>
-			<Collapse line="42" />
+			<Collapse line="7" />
+			<Collapse line="37" />
 		</Folding>
-	</File>
-	<File name="DIG_Resources\DIG_InitRes.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="165" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Game\GTS_GameInterface.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="164" topLine="0" />
-		</Cursor>
 	</File>
 	<File name="..\GTS\GTS_Vector\GTS_Vector.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -454,41 +222,167 @@
 			<Collapse line="296" />
 		</Folding>
 	</File>
-	<File name="..\GTS\GTS_Camera\GTS_Camera.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="DIG_Game\DIG_Game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2537" topLine="0" />
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Location\GTS_Location.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1063" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_StateMachine\GTS_StateMachine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="567" topLine="0" />
 		</Cursor>
 		<Folding>
+			<Collapse line="6" />
+			<Collapse line="8" />
+			<Collapse line="10" />
 			<Collapse line="15" />
-			<Collapse line="25" />
-			<Collapse line="175" />
+			<Collapse line="23" />
+			<Collapse line="40" />
+			<Collapse line="46" />
+			<Collapse line="55" />
+			<Collapse line="57" />
+			<Collapse line="67" />
+			<Collapse line="74" />
+			<Collapse line="76" />
+			<Collapse line="81" />
+			<Collapse line="92" />
+			<Collapse line="104" />
+			<Collapse line="109" />
 		</Folding>
 	</File>
-	<File name="..\GTS\GTS_Engine\GTS_Engine.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\GTS\GTS_WindowManager\GTS_WindowManager.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1184" topLine="47" />
-		</Cursor>
-	</File>
-	<File name="DIG_Map\DIG_Map.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="173" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\GTS\GTS_Grid\GTS_Grid.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="301" topLine="18" />
+			<Cursor1 position="863" topLine="28" />
 		</Cursor>
 		<Folding>
-			<Collapse line="26" />
-			<Collapse line="39" />
+			<Collapse line="57" />
+			<Collapse line="66" />
 			<Collapse line="68" />
-			<Collapse line="74" />
-			<Collapse line="81" />
-			<Collapse line="87" />
-			<Collapse line="93" />
-			<Collapse line="107" />
-			<Collapse line="213" />
+			<Collapse line="84" />
+			<Collapse line="86" />
+			<Collapse line="89" />
+			<Collapse line="91" />
 		</Folding>
+	</File>
+	<File name="..\GTS\GTS_ResourceManager\GTS_ResourceManager.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="869" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="7" />
+			<Collapse line="9" />
+			<Collapse line="19" />
+			<Collapse line="23" />
+			<Collapse line="25" />
+			<Collapse line="36" />
+			<Collapse line="40" />
+			<Collapse line="81" />
+			<Collapse line="84" />
+			<Collapse line="86" />
+			<Collapse line="98" />
+			<Collapse line="103" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_StateMachine\GTS_StateMachine.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1226" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Text\GTS_Text.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1660" topLine="80" />
+		</Cursor>
+		<Folding>
+			<Collapse line="78" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_WindowManager\GTS_WindowManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="355" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Text\GTS_Text.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="508" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DIG_Map\DIG_Map.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="61" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Map\GTS_Map.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="571" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="17" />
+			<Collapse line="19" />
+			<Collapse line="23" />
+			<Collapse line="31" />
+			<Collapse line="35" />
+			<Collapse line="49" />
+			<Collapse line="51" />
+			<Collapse line="57" />
+			<Collapse line="59" />
+			<Collapse line="70" />
+			<Collapse line="76" />
+			<Collapse line="79" />
+			<Collapse line="84" />
+			<Collapse line="92" />
+			<Collapse line="98" />
+			<Collapse line="101" />
+			<Collapse line="106" />
+		</Folding>
+	</File>
+	<File name="DIG_Resources\DIG_TileRes.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1056" topLine="42" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="9" />
+			<Collapse line="35" />
+			<Collapse line="39" />
+			<Collapse line="41" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_Game\GTS_Game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1325" topLine="21" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="22" />
+			<Collapse line="28" />
+		</Folding>
+	</File>
+	<File name="DIG_GameIntro\DIG_GameIntro.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="444" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="44" />
+			<Collapse line="53" />
+			<Collapse line="55" />
+			<Collapse line="60" />
+			<Collapse line="69" />
+			<Collapse line="73" />
+			<Collapse line="86" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_Game\GTS_GameInterface.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="164" topLine="0" />
+		</Cursor>
 	</File>
 	<File name="DIG_Game\DIG_Game.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -500,5 +394,71 @@
 			<Collapse line="46" />
 			<Collapse line="50" />
 		</Folding>
+	</File>
+	<File name="..\GTS\GTS_Grid\GTS_Grid.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="249" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="DIG_Map\DIG_Map.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="173" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Game\GTS_Game.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="549" topLine="16" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="9" />
+			<Collapse line="19" />
+			<Collapse line="59" />
+			<Collapse line="78" />
+			<Collapse line="82" />
+		</Folding>
+	</File>
+	<File name="..\GTS\GTS_Location\GTS_Location.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2216" topLine="95" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="28" />
+			<Collapse line="32" />
+			<Collapse line="37" />
+			<Collapse line="41" />
+			<Collapse line="46" />
+			<Collapse line="50" />
+			<Collapse line="55" />
+			<Collapse line="59" />
+			<Collapse line="63" />
+			<Collapse line="72" />
+			<Collapse line="81" />
+			<Collapse line="85" />
+		</Folding>
+	</File>
+	<File name="DIG_Resources\DIG_TileRes.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="434" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Engine\GTS_Engine.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1159" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="diggers.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="99" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\GTS\GTS_Map\GTS_Map.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1289" topLine="30" />
+		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

@@ -1306,3 +1306,383 @@
 
 1419339826 g:\gorniksmierci\diggers\dig_game\dig_game.cpp
 
+1419342011 source:c:\users\mccrazy\desktop\smiercgornik\diggers\diggers.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	"GTS_Engine/GTS_Engine.h"
+	"DIG_Game/DIG_Game.h"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_engine\gts_engine.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"GTS_Utilities/iostring.cpp"
+	"GTS_Utilities/StringConversion.cpp"
+	"GTS_Utilities/triangleMath.cpp"
+	"GTS_PackCreator/GTS_PackCreator.h"
+	"GTS_Pixel32/GTS_Pixel32.h"
+	"GTS_Vector/GTS_Vector.h"
+	"GTS_Timer/GTS_Timer.h"
+	"GTS_WindowManager/GTS_WindowManager.h"
+	"GTS_ResourceManager/GTS_ResourceManager.h"
+	"GTS_StateMachine/GTS_StateMachine.h"
+	"GTS_Game/GTS_GameInterface.h"
+	"GTS_Engine.cpp"
+	"GTS_Command/GTS_Command.h"
+	"GTS_Camera/GTS_Camera.h"
+	"GTS_Texture/GTS_Texture.h"
+	"GTS_Text/GTS_Text.h"
+	"GTS_Pawn/GTS_Pawn.h"
+	"GTS_OBJ/GTS_OBJ.h"
+	"GTS_Location/GTS_Location.h"
+	"GTS_OBJ/GTS_Object/GTS_Object.h"
+	"GTS_OBJ/GTS_Object/GTS_Tile/GTS_Tile.h"
+	"GTS_OBJ/GTS_Object/GTS_Character/GTS_Character.h"
+	"GTS_OBJ/GTS_Object/GTS_Item/GTS_Item.h"
+	"GTS_Grid/GTS_Grid.h"
+	"GTS_Player/GTS_Player.h"
+	"GTS_AI/GTS_AI.h"
+	"GTS_MiniMap/GTS_MiniMap.h"
+	"GTS_Map/GTS_Map.h"
+	"GTS_Game/GTS_Game.h"
+	"GTS_Button/GTS_Button.h"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_utilities\iostring.cpp
+	<stdio.h>
+	<fstream>
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_utilities\stringconversion.cpp
+	<string>
+	<sstream>
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_utilities\trianglemath.cpp
+
+1419342084 c:\users\mccrazy\desktop\smiercgornik\gts\gts_packcreator\gts_packcreator.h
+	<stdio.h>
+	<fstream>
+	<string>
+	<map>
+	"GTS_PackCreator.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_packcreator\gts_packcreator.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_pixel32\gts_pixel32.h
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_vector\gts_vector.h
+	<stdio.h>
+	<cmath>
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_timer\gts_timer.h
+	"GTS_Timer.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_timer\gts_timer.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_windowmanager\gts_windowmanager.h
+	<string>
+	<map>
+	"GTS_Window/GTS_Window.h"
+	"GTS_WindowManager.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_window\gts_window.h
+	<stdio.h>
+	<string>
+	<typedefs.cpp>
+	<SDL.h>
+	"GTS_Window.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\typedefs.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_window\gts_window.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_windowmanager\gts_windowmanager.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_resourcemanager\gts_resourcemanager.h
+	<list>
+	"GTS_Resource/GTS_Resource.h"
+	"GTS_ResourceManager.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_resource\gts_resource.h
+	<string>
+	"GTS_Resource.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_resource\gts_resource.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_resourcemanager\gts_resourcemanager.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_statemachine\gts_statemachine.h
+	<stdio.h>
+	<vector>
+	"GTS_State/GTS_State.h"
+	"GTS_Window/GTS_Window.h"
+	<typeinfo>
+	"GTS_StateMachine.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_state\gts_state.h
+	<string>
+	"GTS_State.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_state\gts_state.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_statemachine\gts_statemachine.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_game\gts_gameinterface.h
+	"GTS_GameInterface.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_game\gts_gameinterface.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_engine\gts_engine.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_command\gts_command.h
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_camera\gts_camera.h
+	"GTS_Camera.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_camera\gts_camera.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_texture\gts_texture.h
+	<string>
+	<vector>
+	"GTS_Texture.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_texture\gts_texture.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_text\gts_text.h
+	<SDL_ttf.h>
+	<string>
+	"GTS_Text.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_text\gts_text.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_pawn\gts_pawn.h
+	<vector>
+	<list>
+	<cmath>
+	"GTS_Pawn.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_pawn\gts_pawn.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_obj.h
+	"GTS_OBJ/GTS_OBJ.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_obj.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_location\gts_location.h
+	<list>
+	"GTS_Location.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_location\gts_location.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_object.h
+	<string>
+	"GTS_OBJ/GTS_OBJ.h"
+	"GTS_Object.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_object.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_tile\gts_tile.h
+	"GTS_OBJ/GTS_Object/GTS_Object.h"
+	"GTS_Tile.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_tile\gts_tile.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_character.h
+	"GTS_OBJ/GTS_Object/GTS_Object.h"
+	"GTS_CharacterDescription/GTS_CharacterDescription.h"
+	"GTS_CharacterAbilities/GTS_CharacterAbilities.h"
+	"GTS_CharacterItems/GTS_CharacterItems.h"
+	"GTS_CharacterFeatures/GTS_CharacterFeatures.h"
+	"GTS_CharacterState/GTS_CharacterState.h"
+	"GTS_CharacterAnimations/GTS_CharacterAnimations.h"
+	"GTS_Character.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterdescription\gts_characterdescription.h
+	"GTS_CharacterDescription.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterdescription\gts_characterdescription.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterabilities\gts_characterabilities.h
+	"GTS_CharacterAbilities.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterabilities\gts_characterabilities.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characteritems\gts_characteritems.h
+	"GTS_CharacterItems.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characteritems\gts_characteritems.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterfeatures\gts_characterfeatures.h
+	"GTS_CharacterFeatures.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterfeatures\gts_characterfeatures.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterstate\gts_characterstate.h
+	"GTS_CharacterState.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characterstate\gts_characterstate.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characteranimations\gts_characteranimations.h
+	"GTS_CharacterAnimations.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_characteranimations\gts_characteranimations.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_character\gts_character.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_item\gts_item.h
+	"GTS_OBJ/GTS_Object/GTS_Object.h"
+	"GTS_Item.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_obj\gts_object\gts_item\gts_item.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_grid\gts_grid.h
+	<vector>
+	"GTS_Location/GTS_Location.h"
+	"GTS_Grid.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_grid\gts_grid.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_player\gts_player.h
+	"GTS_Player.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_player\gts_player.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_ai.h
+	<list>
+	"GTS_Instruction/GTS_Instruction.h"
+	"GTS_PathFinder/GTS_PathFinder.h"
+	"GTS_Instruction/GTS_Loop/GTS_Loop.h"
+	"GTS_Instruction/GTS_Condition/GTS_Condition.h"
+	"GTS_Instruction/GTS_Parallel/GTS_Parallel.h"
+	"GTS_Instruction/GTS_Select/GTS_Select.h"
+	"GTS_Instruction/GTS_Wait/GTS_Wait.h"
+	"GTS_Instruction/GTS_Task/GTS_Task.h"
+	"GTS_AI.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_instruction.h
+	"GTS_Instruction.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_instruction.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_pathfinder\gts_pathfinder.h
+	<list>
+	"GTS_Location/GTS_Location.h"
+	"GTS_PathFinder.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_pathfinder\gts_pathfinder.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_loop\gts_loop.h
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Loop.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_loop\gts_loop.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_condition\gts_condition.h
+	"GTS_Condition.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_condition\gts_condition.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_parallel\gts_parallel.h
+	<list>
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Parallel.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_parallel\gts_parallel.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_select\gts_select.h
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Select.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_select\gts_select.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_wait\gts_wait.h
+	"GTS_AI/GTS_Instruction/GTS_Instruction.h"
+	"GTS_Wait.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_wait\gts_wait.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_task\gts_task.h
+	<string>
+	"GTS_Task.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_instruction\gts_task\gts_task.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\gts\gts_ai\gts_ai.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_minimap\gts_minimap.h
+	"GTS_Grid/GTS_Grid.h"
+	"GTS_MiniMap.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_minimap\gts_minimap.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_map\gts_map.h
+	<string>
+	<list>
+	<fstream>
+	"GTS_Grid/GTS_Grid.h"
+	"GTS_MiniMap/GTS_MiniMap.h"
+	"GTS_Map.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_map\gts_map.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_game\gts_game.h
+	"GTS_Game/GTS_GameInterface.h"
+	"GTS_Player/GTS_Player.h"
+	"GTS_Map/GTS_Map.h"
+	"GTS_Game.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_game\gts_game.cpp
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_button\gts_button.h
+	"GTS_Button.cpp"
+
+1419342012 c:\users\mccrazy\desktop\smiercgornik\gts\gts_button\gts_button.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_game\dig_game.h
+	"GTS_Game/GTS_Game.h"
+	"DIG_Map/DIG_Map.h"
+	"DIG_Resources/DIG_InitRes.h"
+	"DIG_Resources/DIG_MenuRes.h"
+	"DIG_Resources/DIG_TileRes.h"
+	"DIG_InitializeGame/DIG_InitializeGame.h"
+	"DIG_MainMenu/DIG_MainMenu.h"
+	"DIG_Game.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_map\dig_map.h
+	"GTS_Map/GTS_Map.h"
+	"DIG_Map.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_map\dig_map.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_resources\dig_initres.h
+	"GTS_Resource/GTS_Resource.h"
+	"DIG_InitRes.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_resources\dig_initres.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_resources\dig_menures.h
+	"GTS_Resource/GTS_Resource.h"
+	"DIG_MenuRes.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_resources\dig_menures.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_resources\dig_tileres.h
+	"GTS_Resource/GTS_Resource.h"
+	"DIG_TileRes.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_resources\dig_tileres.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_initializegame\dig_initializegame.h
+	"GTS_State/GTS_State.h"
+	"DIG_InitializeGame.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_initializegame\dig_initializegame.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_mainmenu\dig_mainmenu.h
+	"GTS_State/GTS_State.h"
+	"DIG_MainMenu.cpp"
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_mainmenu\dig_mainmenu.cpp
+
+1419342011 c:\users\mccrazy\desktop\smiercgornik\diggers\dig_game\dig_game.cpp
+
